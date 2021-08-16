@@ -4,7 +4,7 @@ Faça um algoritmo para ler um valor N e em sequida ler N números inteiros. Dep
 
 ## Entrada
 
-Um número N, sequido de N números inteiros.
+Um número N, seguido de N números inteiros.
 
 ```
 5
